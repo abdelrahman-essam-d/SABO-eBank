@@ -1,0 +1,14 @@
+[2025-09-20 00:58:42] Deposit of 30000 EGP successful. New Balance: 30000.000000
+[2025-09-20 00:58:45] Deposit of 30000 EGP successful. New Balance: 60000.000000
+[2025-09-20 00:58:52] Deposit of 30000 EGP successful. New Balance: 90000.000000
+[2025-09-20 01:04:07] Your feedback has been sent to admin.
+[2025-09-20 01:05:31] Withdrawal of 1000 EGP successful. New Balance: 88995.000000
+[2025-09-20 01:07:27] ========== Transfer Receipt (Sent) ==========
+ Amount Transferred : 50000.00 EGP
+ Transfer Fee       : 50.00 EGP
+ To (Name)          : Mostafa Hany
+ Your New Balance   : 38945.00 EGP
+-------------------------------------------
+ Date & Time        : 2025-09-20 01:07:27
+===========================================
+

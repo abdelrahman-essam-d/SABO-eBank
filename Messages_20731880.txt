@@ -1,0 +1,11 @@
+[2025-09-19 15:29:56] Deposit of 20000 EGP successful. New Balance: 20000.000000
+[2025-09-19 15:44:44] Your feedback has been sent to admin.
+[2025-09-19 15:47:28] Admin reply: Hello mr. mostafa Thank you for choosing SABO eBank
+[2025-09-20 01:07:27] ========== Transfer Receipt (Received) ==========
+ Amount Received    : 50000.00 EGP
+ From (Name)        : Abdelrahman Essam
+ Your New Balance   : 69975.00 EGP
+----------------------------------------------
+ Date & Time        : 2025-09-20 01:07:27
+==============================================
+
